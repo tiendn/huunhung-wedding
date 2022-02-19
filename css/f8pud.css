@@ -48,6 +48,11 @@ span.wpcf7-not-valid-tip {
   font-weight: normal;
   display: block
 }
+.avatar-circle {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+}
 
 .use-floating-validation-tip span.wpcf7-not-valid-tip {
   position: absolute;
@@ -5560,7 +5565,7 @@ html #wpadminbar {
 
 .footer-copyright {
   text-align: center;
-  font-size: 90%;
+  font-size: 110%;
   font-style: italic
 }
 
